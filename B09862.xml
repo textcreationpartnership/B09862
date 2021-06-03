@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rebellion given over house-keeping:, or, A general sale of rebellious household stuff. Being a pleasant new song.  To the tune of, Old Simon the king.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09862</idno><idno type="EEBO-CITATION">64551656</idno>
+  <idno type="VID">184756</idno>
+  <idno type="EEBO-PROQUEST">2240877195</idno>
+  
+            <idno type="STC">Wing R593</idno>
+            <idno type="STC">ESTC R182524</idno>
+            <idno type="OCLC">64551656</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184756)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rebellion given over house-keeping:, or, A general sale of rebellious household stuff. Being a pleasant new song.  To the tune of, Old Simon the king.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. W., J. C., W. T., T. P., and M. C.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside has faded print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:184756:1"/>
+            <pb facs="tcp:184756:2"/>
+            <head>Rebellion given over House-keeping: OR, <hi>A General Sale of Rebellious Houshould stuff. <hi>Being a Pleasant New Song.</hi>
+               </hi>
+            </head>
+            <opener>To the Tune of, <hi>Old</hi> Simon <hi>the King.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of woman in window</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>REbellion hath broken up House,</l>
+               <l>and hath left me Old Lumber to sell:</l>
+               <l>Come hither and take your choice,</l>
+               <l>I'le promise to use you well.</l>
+               <l>Will you buy the Old Speaker's Chair,</l>
+               <l>which was warm, and easie to sit in,</l>
+               <l>And oftentimes hath been made clean,</l>
+               <l>when as it was fouler then siting:</l>
+               <l>
+                  <hi>Says O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d <hi>Sim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n</hi> the King,</hi>
+               </l>
+               <l>
+                  <hi>say<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> O d <hi>Simon</hi> the King,</hi>
+               </l>
+               <l>
+                  <hi>With h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s thread-bare Cloaths, and his Mamsey Nose,</hi>
+               </l>
+               <l>
+                  <hi>sing hey ding, ding, a ding ding.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Will you buy any <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>con <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itches?</l>
+               <l>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> she f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est that ever were spent;</l>
+               <l>They'r the sides of the old Committees,</l>
+               <l>fed up with th' long parliment.</l>
+               <l>Here's a pair of be<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ows an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tongs,</l>
+               <l>and for a small matter i'le fell 'em;</l>
+               <l>They'r made of the Presbiters Lungs,</l>
+               <l>to blow up the Coa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Rebellion,</l>
+               <l>
+                  <hi>Says old <hi>Simon</hi> the King, <hi>&amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I had thought to have given them once</l>
+               <l>to some Black-<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ith for his Forge;</l>
+               <l>But <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow I have consider'd on't,</l>
+               <l>I for them have found other use:</l>
+               <l>For i'le give them to s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r,</l>
+               <l>to make the Organs to roar,</l>
+               <l>And the little Pipes <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k higher</l>
+               <l>then ev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r they did before,</l>
+               <l>
+                  <hi>Says old <hi>Simo</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he King,</hi>
+               </l>
+               <l>
+                  <hi>says Ol <hi>Simon</hi> the King,</hi>
+               </l>
+               <l>
+                  <hi>With his Thread-bare Cloaths, and his mamsey Nose</hi>
+               </l>
+               <l>
+                  <hi>sing hey ding, ding, a ding ding.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:184756:2"/>
+               <l>Here, s a couple of S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ools for sale,</l>
+               <l>the one square and t'other is round;</l>
+               <l>Betwixt them both the Tail</l>
+               <l>of the Rump fell unto the Ground.</l>
+               <l>VVill you buy the States Council Table,</l>
+               <l>which was made of the good wain-Scot;</l>
+               <l>The frame was a tottering Bable</l>
+               <l>to uphold th'independent plot;</l>
+               <l>
+                  <hi>Says old <hi>Simon</hi> the King, <hi>&amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here's the Beesom of Reformation,</l>
+               <l>which should have made clean the Floor,</l>
+               <l>But it swept the wealth out of th' Nation</l>
+               <l>and left us Dirt good store.</l>
+               <l>VVill you buy States Spining wheel,</l>
+               <l>which spun for the Ropers Trade?</l>
+               <l>But better it had stoodstill,</l>
+               <l>for now in has spun a Fair Thred?</l>
+               <l>
+                  <hi>Says old <hi>Simon</hi> the king,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Here's a very good Clyster Pipe,</l>
+               <l>which was made of a Butchers stump?</l>
+               <l>And oft-times it hath been us'd</l>
+               <l>to cure the Colds of the Rump.</l>
+               <l>Here's a lump of Ignorance,</l>
+               <l>which once was a Iustice of peace,</l>
+               <l>Who <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l and the Deuil did serve,</l>
+               <l>but now it is come to This,</l>
+               <l>
+                  <hi>Says old <hi>Simon</hi> the King, <hi>&amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here's a Role of States Tobacco,</l>
+               <l>if any Good Fellow will take it:</l>
+               <l>It's nither Virginia nor Spanish,</l>
+               <l>but i'le tell you how they do make it;</l>
+               <l>Tis Covenant mixt with Engagement,</l>
+               <l>with an Abjuration Oath;</l>
+               <l>And many of them that did take it</l>
+               <l>complain it was foul in the Mouth,</l>
+               <l>
+                  <hi>Says Old <hi>Simon</hi> the King, <hi>&amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t the Ashes may happily serve</l>
+               <l>to cure the Scab of the Nation,</l>
+               <l>VVhen they have an itch to serv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>a Rebellion by Innovation,</l>
+               <l>A Lanthorn here is to be bought,</l>
+               <l>the like was scarce e're begotten:</l>
+               <l>For many a Plot't has found out,</l>
+               <l>before they ever were thought on,</l>
+               <l>
+                  <hi>Says old <hi>Simon</hi> the King, <hi>&amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Will you buy the Rumps great Saddle,</l>
+               <l>which once did carry the Nation;</l>
+               <l>And here's the Bitt and the Bridle,</l>
+               <l>and Curb of Dissimulation?</l>
+               <l>Here's the Breeches of the Rump,</l>
+               <l>With a fair dissembling Cloak,</l>
+               <l>And a Presbiterian Iump,</l>
+               <l>with an Independent Smock,</l>
+               <l>
+                  <hi>Says old <hi>Simon</hi> the King, <hi>&amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Will you buy a Conscience ne'r turn'd,</l>
+               <l>which served the High Court of Iustice?</l>
+               <l>And stretch'd until <hi>England</hi> it mourn'd,</l>
+               <l>but Hell will buy that if the worst is:</l>
+               <l>Here's <hi>Ioan Crumwels</hi> Kitching-stuff-Tub,</l>
+               <l>wherein is the Fat of the Rumpers,</l>
+               <l>With which she Old <hi>Noll's</hi> Horns did rub,</l>
+               <l>when he was got drunk with full <hi>Bumpers:</hi>
+               </l>
+               <l>
+                  <hi>Says Old <hi>Simon</hi> the King, <hi>&amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here's the Purse of the <hi>Publique Faith,</hi>
+               </l>
+               <l>here's the Model of Sequestration,</l>
+               <l>Here are the old wives who on good troth,</l>
+               <l>sent Thimbles to ruine the Nation:</l>
+               <l>Here is <hi>Dick Crumwel's</hi> Protectorship,</l>
+               <l>and here is <hi>Lambert's</hi> Commission,</l>
+               <l>And here is <hi>Hugh Peters</hi> his Scrip,</l>
+               <l>cram'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the Tumultuous Petitions.</l>
+               <l>
+                  <hi>Says Old <hi>Simon</hi> the King, <hi>&amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here's Olivers Brewing Vessels.</l>
+               <l>and here's his Dray and his Slings:</l>
+               <l>Here's Hewsons Aul and his Bristles,</l>
+               <l>with divers other odd things.</l>
+               <l>And what doth the price belong</l>
+               <l>to all these matters before ye?</l>
+               <l>I'le sell them all for an old song,</l>
+               <l>and so I do end my story</l>
+               <l>
+                  <hi>Says old <hi>Simon</hi> the King,</hi>
+               </l>
+               <l>
+                  <hi>Says old <hi>Simon</hi> the King,</hi>
+               </l>
+               <l>
+                  <hi>With his thread-bare cloaths, &amp; a Mamsey Nose</hi>
+               </l>
+               <l>
+                  <hi>Sing hey ding, ding, a ding ding.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> J. W. J. C. W. T. T. P. <hi>and</hi> M. C.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
